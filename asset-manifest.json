@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/HangmanGame-react/static/css/main.588f5233.chunk.css",
+    "main.js": "/HangmanGame-react/static/js/main.8881e27f.chunk.js",
+    "main.js.map": "/HangmanGame-react/static/js/main.8881e27f.chunk.js.map",
+    "runtime-main.js": "/HangmanGame-react/static/js/runtime-main.2da5c2ea.js",
+    "runtime-main.js.map": "/HangmanGame-react/static/js/runtime-main.2da5c2ea.js.map",
+    "static/css/2.eb395e31.chunk.css": "/HangmanGame-react/static/css/2.eb395e31.chunk.css",
+    "static/js/2.f096e99d.chunk.js": "/HangmanGame-react/static/js/2.f096e99d.chunk.js",
+    "static/js/2.f096e99d.chunk.js.map": "/HangmanGame-react/static/js/2.f096e99d.chunk.js.map",
+    "index.html": "/HangmanGame-react/index.html",
+    "precache-manifest.a5cf532c56550e45341306f87dce861b.js": "/HangmanGame-react/precache-manifest.a5cf532c56550e45341306f87dce861b.js",
+    "service-worker.js": "/HangmanGame-react/service-worker.js",
+    "static/css/2.eb395e31.chunk.css.map": "/HangmanGame-react/static/css/2.eb395e31.chunk.css.map",
+    "static/css/main.588f5233.chunk.css.map": "/HangmanGame-react/static/css/main.588f5233.chunk.css.map",
+    "static/js/2.f096e99d.chunk.js.LICENSE": "/HangmanGame-react/static/js/2.f096e99d.chunk.js.LICENSE",
+    "static/media/font-awesome.css": "/HangmanGame-react/static/media/fontawesome-webfont.fee66e71.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2da5c2ea.js",
+    "static/css/2.eb395e31.chunk.css",
+    "static/js/2.f096e99d.chunk.js",
+    "static/css/main.588f5233.chunk.css",
+    "static/js/main.8881e27f.chunk.js"
+  ]
+}
